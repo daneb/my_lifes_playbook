@@ -25,7 +25,18 @@
 # D. Being A Developer
 
 # E. Being A Manager
-## Manager's User Manual
+
+1. Rules of managing
+2. Manager's user manual for team
+
+## 1. Rules of Managing
+	* Lead by example but don't absolve responsibility.
+	* Delegate.
+	* Record all interactions, document and distribute.
+	* Changes to processes need solid agreement.
+	* Collaborate instead of dictate, but dictate when collaboration can't reach resolution.
+
+## 2. Manager's User Manual
 
 ### What is this
 It's the essence of how I operate as a Manager.
