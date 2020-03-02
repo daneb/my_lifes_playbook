@@ -9,7 +9,7 @@
 *First rule*
 	Anger should never result in immediate action. It's often first sign of it being misplaced, misdirected and wrong.
 
-### Definition of Anger
+#### Definition of Anger
 	Incorrectly applied anger is an off itself self-gratification. It is selfish as it seeks to create an outlet for one's on emotional injustice. This form of anger is misapplied to someone or something else.
 
 1. __Harmful affects of Anger__  
