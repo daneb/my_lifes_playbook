@@ -5,7 +5,7 @@
 # B. Being A Husband
 
 # C. Being A Father
-1. Anger -  
+### Anger -  
 *First rule*
 	Anger should never result in immediate action. It's often first sign of it being misplaced, misdirected and wrong.
 
@@ -16,6 +16,10 @@
 	To a child at the bitter end of this anger is loneliness, fear and shame. It isolates the child from the parent. It causes the child to be scared without a dad or mum to console. It breaks down the relationship. Far worse, pending the events the anger is linked to, it causes the child to bear a responsibility far beyond their years or even have an expectaction unnecessarily placed upon. It's hard being an adult, this weight should not be maliciously be imparted to a child.
 
 2. __How to deal with Anger__
+
+### Communication
+1. Speak to your child with the respect given to an adult.
+2. When accidents happen in the home (child breaking something), don't correct the behaviour there, particularly if the child is feeling guilty and cognisant of the impact. Rather clean up and provide wisdom after the emotions have subsided. 
 
 ### Guiding principals for raising kids
 ### A Family-focused life
