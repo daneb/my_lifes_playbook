@@ -24,6 +24,28 @@
 
 # D. Being A Developer
 
+Principals to guide development:
+1.  [High Cohesion, Loose Coupling](https://stackoverflow.com/questions/14000762/what-does-low-in-coupling-and-high-in-cohesion-mean)
+2.  [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter) - there should be at least one layer of indirection when working with a resource
+3.  [Postels Law](https://en.wikipedia.org/wiki/Robustness_principle)
+4.  [Filter Inputs, Sanitize Output](https://benramsey.com/articles/escape-output/)
+5.  [Single Responsibility](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+6.  [The Last Boy Scout Rule](https://martinfowler.com/bliki/OpportunisticRefactoring.html)
+7.  [YAGNI](https://martinfowler.com/bliki/Yagni.html)
+8.  [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). This is predominantly about DRYing into business domains not drying across.
+9.  Inch Wide Mile Deep - integrate early, extend functionality later
+10. [Conway's Law](https://www.thoughtworks.com/insights/blog/applying-conways-law-improve-your-software-development)
+11. [Fail Fast](https://en.wikipedia.org/wiki/Fail-fast)
+12. [Open/Closed Principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
+13. [Ego-less programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+14. [Make it work, make it right, make it fast](http://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast) *CRAWL, WALK, RUN*
+15. The best code you can write, is not writing any at all
+16. The best developer is the one who has had sufficient sleep (7+ hours).
+17. Ensure consistency of implementation across code base
+18. Make it work, make it right, make it fast CRAWL, WALK, RUN
+19. The best code you can write, is not writing any at all
+20. The best developer is the one who has had sufficient sleep (7+ hours).
+
 # E. Being A Manager
 
 1. Rules of managing
