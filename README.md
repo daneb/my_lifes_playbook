@@ -28,7 +28,7 @@
 
 # D. Being A Developer
 
-Principals to guide development:
+## Principals to guide development:
 1.  [High Cohesion, Loose Coupling](https://stackoverflow.com/questions/14000762/what-does-low-in-coupling-and-high-in-cohesion-mean)
 2.  [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter) - there should be at least one layer of indirection when working with a resource
 3.  [Postels Law](https://en.wikipedia.org/wiki/Robustness_principle)
@@ -49,6 +49,21 @@ Principals to guide development:
 18. Make it work, make it right, make it fast CRAWL, WALK, RUN
 19. The best code you can write, is not writing any at all
 20. The best developer is the one who has had sufficient sleep (7+ hours).
+
+## Algorithms
+### Expression Trees
+> Expression trees represent code in a tree-like data structure, where each node is an expression, for example, a method call or a binary operation such as x < y
+
+> An expression tree provides a method of translating executable code into data. This can be very valuable if you want to modify or transform code before executing it. 
+
+>Expression trees were created in order to make the task of converting code such as a query expression into a string that can be passed to some other process and executed there. It is that simple. There is no great mystery here, no magic wand that needs to be waved. One simply takes code, converts it into data, and then analyzes the data to find the constituent parts that will be translated into a string that can be passed to another process.
+
+Their an abstraction to allow other processes to understand and transform the instructions for execution elsewhere.
+
+References:
+1. [Simple overview](https://docs.microsoft.com/en-us/archive/blogs/charlie/expression-tree-basics)
+
+
 
 # E. Being A Manager
 
