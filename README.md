@@ -47,8 +47,8 @@
 16. The best developer is the one who has had sufficient sleep (7+ hours).
 17. Ensure consistency of implementation across code base
 18. Make it work, make it right, make it fast CRAWL, WALK, RUN
-19. The best code you can write, is not writing any at all
-20. The best developer is the one who has had sufficient sleep (7+ hours).
+19. The aim of agile is not to make the team go faster but to generate data to make improved decisions.
+
 
 ## Algorithms
 ### Expression Trees
