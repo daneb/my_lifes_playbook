@@ -41,6 +41,20 @@ Don't live out the models of others, take the model of who you are, recognize it
 
 # D. Being A Developer
 
+## Clean code
+1. Functions/Class names are inversly proportional to the scope ({}). Tests have very long names.
+2. Variable names are directly proportional to their scope. 
+3. Names should reveal intent. Avoid disinformation.
+4. Classes names should be nouns. Avoid noise words - Data, Info, Manager.
+5. Methods should be verbs.
+6. It's rude to introduce a reader to high-level concepts and low-level concepts at the start of a function.
+7. Functions should be small (4-20 lines). A line in a function should only be one-level of abstraction away from the name.
+8. Functions should just do one thing. Aim for more functions then multiple lines with one layer of abstraction from name.
+
+## Tests
+1. Don't test functions directly. Tests will break when code breaks. This is why we don't test private functions.
+
+
 ## Principals to guide development:
 1.  [High Cohesion, Loose Coupling](https://stackoverflow.com/questions/14000762/what-does-low-in-coupling-and-high-in-cohesion-mean)
 2.  [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter) - there should be at least one layer of indirection when working with a resource
@@ -61,6 +75,7 @@ Don't live out the models of others, take the model of who you are, recognize it
 17. Ensure consistency of implementation across code base
 18. Make it work, make it right, make it fast CRAWL, WALK, RUN
 19. The aim of agile is not to make the team go faster but to generate data to make improved decisions.
+20. Comments usually mean you need to spend time cleaning the code. *regex
 
 ## DDD
 Domain-driven design 
