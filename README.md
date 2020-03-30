@@ -3,6 +3,12 @@
 # A. Being A Christian
 	
 # B. Being A Husband
+### Being Present
+As a man it is easy to get caught up in one's own pursuits. In conquering, in building and in defining the future. However these pursuits can overwhelm the pre-frontal cortex making the husband non-present.
+Non-present in conversation, non-present in being a husband and non-present in being a father.
+
+*Don't line up your schedule or your plate with the insurmountable. You will lose your family.*
+This is of course can be done over a defined period in mututal agreement with the family, but word to the wise "work" is an easy excuse for sub-consciously and consciously not being present.
 
 # C. Being A Father
 ### Anger -  
@@ -48,6 +54,9 @@
 17. Ensure consistency of implementation across code base
 18. Make it work, make it right, make it fast CRAWL, WALK, RUN
 19. The aim of agile is not to make the team go faster but to generate data to make improved decisions.
+
+## DDD
+Domain-driven design 
 
 
 ## Algorithms
@@ -126,6 +135,8 @@ I aim to do whats right. But sometimes right is not effective. If not harmful, d
 
 7. If you not getting to deep work, reach out, I will do my utmost to figure out how to unblock you.
 I am work in progress.
+
+8. Critical thinking is not hard and imperfect. However it is not winning, it's weighing. Critical thinking needs to criticize something.
 
 
 ### Areas I'm working to improve...
