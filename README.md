@@ -10,6 +10,13 @@ Non-present in conversation, non-present in being a husband and non-present in b
 *Don't line up your schedule or your plate with the insurmountable. You will lose your family.*
 This is of course can be done over a defined period in mututal agreement with the family, but word to the wise "work" is an easy excuse for sub-consciously and consciously not being present.
 
+### Personality
+Know your personality type. Watch yourself. Note your patterns and the impact they have on your family.
+For example: I have an addictive nature. And find it easy to immerse myself wholly into something at the expense and oppurtunity cost of other things. 
+
+Don't live out the models of others, take the model of who you are, recognize it, and apply the patterns of how others resolved their own *demons*. Don't mirror, refract.
+
+
 # C. Being A Father
 ### Anger -  
 *First rule*
