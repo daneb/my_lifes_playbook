@@ -1,8 +1,27 @@
 # My Life's Playbook
+### Look you are not likely to agree with everything here. Some is so brief is might spark controversy or some just not your point of view. I'm not selling this, I'm just sharing and collecting lessons learned for myself.
 
 # A. Being A Christian
-	
+
+### Apologetics
+>15 But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:
+>16 Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.
+
+1. Is about bridging the gap between head and heart. Often times the questioner is left unaddressed.
+2. We assume the conversation is largely intellectual.
+3. We hinder the Holy Spirit by only responding using our own reason.
+
+The first ground is the apologist himself.
+
 # B. Being A Husband
+
+### Love
+1. Love is ever fleeting. And a husband needs to daily fan the flame of romance.
+2. Everyday should be sought to winning the heart and imagination of his space. This is not a tireless effort from a realm of insecurity, but rather of confidence and surity and longetivity in a happy marriage.
+
+### The Domain
+1. The husband is king. But that doesn't discount the queen - her domain is the household. Be wary about interfering areas of expertise that God has called each of you too. Know your roles.
+
 ### Being Present
 As a man it is easy to get caught up in one's own pursuits. In conquering, in building and in defining the future. However these pursuits can overwhelm the pre-frontal cortex making the husband non-present.
 Non-present in conversation, non-present in being a husband and non-present in being a father.
