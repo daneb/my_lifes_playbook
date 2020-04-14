@@ -1,5 +1,5 @@
 # My Life's Playbook
-### Look you are not likely to agree with everything here. Some of this so brief is might spark controversy or some just not your point of view. I'm not selling this, I'm just sharing and collecting lessons learned for myself.
+### Look you are not likely to agree with everything here. Some of this so brief is might spark controversy or some just not your point of view. I'm not selling this, I'm just sharing and collecting lessons learned for myself and theories I'm testing.
 
 # A. Being A Christian
 
