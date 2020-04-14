@@ -13,6 +13,30 @@
 
 The first ground is the apologist himself.
 
+### Terminology for non-believers:
+1. Sin is a violation of purpose.
+
+### Worldview
+1. Everyone has a worldview and the question is whether we have a good one.
+2. Worldview conceives your thoughts and ideas about the world.
+3. A worldview is a framework to approach and basic questions around reality.
+
+#### Atheism
+1. Descended from naturalism.
+2. Tries to explain everything material (explaining mental activity through physical activity is a fallacy)
+3. If we all define our own meaning, that doesn't reflect in the natural world. It doesn't just except the reality of YOUR meaning.
+
+#### Islam
+1. Universe was created by a god. 
+2. That god is distant and unknoweable.
+3. Asking why in Islam is prohibited.
+
+#### 4 Fundamental questions
+a. Origin - where does reality come from?
+b. Morality - how should I live?
+c. Meaning - is there purpose to live? (there is no why-questions only how-questions :( )
+d. Destiny - where ultimately am I headed?
+
 # B. Being A Husband
 
 ### Love
@@ -59,6 +83,11 @@ Don't live out the models of others, take the model of who you are, recognize it
 
 
 # D. Being A Developer
+
+## Problem Solving
+1. Reason through First Principles
+>The normal way we conduct our lives is we reason by analogy. [When reasoning by analogy] we are doing this because it’s like something else that was done or it is like what other people are doing — slight iterations on a theme.
+First principles is kind of a physics way of looking at the world. You boil things down to the most fundamental truths and say, “What are we sure is true?” … and then reason up from there.
 
 ## Clean code
 1. Functions/Class names are inversly proportional to the scope ({}). Tests have very long names.
