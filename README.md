@@ -89,6 +89,18 @@ Don't live out the models of others, take the model of who you are, recognize it
 >The normal way we conduct our lives is we reason by analogy. [When reasoning by analogy] we are doing this because it’s like something else that was done or it is like what other people are doing — slight iterations on a theme.
 First principles is kind of a physics way of looking at the world. You boil things down to the most fundamental truths and say, “What are we sure is true?” … and then reason up from there.
 
+## Bias
+1. Survivorship bias - the tendency to ignore absent information and only ever plan for the best.
+2. Endowment bias - the attribution of greater regard for that which already own, independent of actual value.
+3. Hyperbolic discounting - immediate rewards don't always offer the greatest benefits, but you are still most likely to select them.
+4. Clustering illusion - how we interpret groups of events can affect our ability to predict future probabilities
+5. Confirmation bias - our process of gathering information to form our opinions is not as impartial as we may believe
+6. Availability heuristic - the bias towards recent, easily remembered information when assessing importance and relevance in new situations
+7. Stereotyping - while it may be associated with discrimination against minorities, stereotyping does have an innocent cognitive function.
+8. Gambler's fallacy - an opposite effect to clustering illusion, this bias also results in faulty expectations.
+9. Risk compensation - does perceived safety yield increased complacency? This question has significant implications for hazard management.
+10. Anchoring bias - even business-savy people can fall foul to this bias towards initial information. the common human tendency to rely too heavily, or "anchor," on one trait or piece of information when making decisions.
+
 ## Clean code
 1. Functions/Class names are inversly proportional to the scope ({}). Tests have very long names.
 2. Variable names are directly proportional to their scope. 
