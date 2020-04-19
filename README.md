@@ -81,7 +81,6 @@ Don't live out the models of others, take the model of who you are, recognize it
 ### A Family-focused life
 ### Games to play with the kids
 
-
 # D. Being A Developer
 
 ## Problem Solving
@@ -225,4 +224,20 @@ I am work in progress.
 
 Switching too quickly from problem definition to problem resolution.
 Effecting change at a less rapid rate (at times).
+
+# F. Just Being
+
+## Schedule
+1. Keep the same time to awake and the same time to rise (4:00 AM, 9:00 PM)
+2. Quieten your mind 30 minutes before sleep (8:30 PM)
+3. On weekends, stay up a little later (9:30 PM - 10:00 PM).
+
+### Chess
+1. Try castle as early as you can.
+2. Always try interpret a minimal of 3 possible attacks from the enemy.
+3. Don't fear attacks you can't see, only learn the lesson from not seeing them if there is.
+4. Try dominate the centre four squares.
+5. Try get as many pieces in *active* positions.
+6. When severely attacked it's easy to negate our own resources. Open your eyes.
+7. Setup traps that are disguised as alternate attacks.
 	
