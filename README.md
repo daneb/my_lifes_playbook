@@ -114,6 +114,9 @@ First principles is kind of a physics way of looking at the world. You boil thin
 ## Tests
 1. Don't test functions directly. Tests will break when code breaks. This is why we don't test private functions.
 
+## Dev Quotes
+1. "Cheap, Fast, and Good: Pick Two"? *related to CAP theorem*
+
 
 ## Principals to guide development:
 1.  [High Cohesion, Loose Coupling](https://stackoverflow.com/questions/14000762/what-does-low-in-coupling-and-high-in-cohesion-mean)
