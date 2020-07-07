@@ -32,10 +32,11 @@ The first ground is the apologist himself.
 3. Asking why in Islam is prohibited.
 
 #### 4 Fundamental questions
-a. Origin - where does reality come from?
-b. Morality - how should I live?
-c. Meaning - is there purpose to live? (there is no why-questions only how-questions :( )
-d. Destiny - where ultimately am I headed?
+a. _Origin_ - where does reality come from?  
+b. _Morality_ - how should I live?  
+c. _Meaning_ - is there purpose to live? (there is no why-questions only how-questions :( )  
+d. _Destiny_ - where ultimately am I headed?  
+
 
 # B. Being A Husband
 
