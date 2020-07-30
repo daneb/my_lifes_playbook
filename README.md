@@ -2,6 +2,7 @@
 ### Look you are not likely to agree with everything here. Some of this is so brief is might spark controversy or some just not your point of view. I'm not selling this, I'm just sharing and collecting lessons learned for myself and theories I'm testing.
 
 # A. Being A Christian
+Jesus Christ permeates all I do!
 
 ### Apologetics
 >15 But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:
@@ -65,6 +66,9 @@ Don't live out the models of others, take the model of who you are, recognize it
 ### Anger -  
 *First rule*
 	Anger should never result in immediate action. It's often first sign of it being misplaced, misdirected and wrong.
+
+*Second rule*
+	Little to no interactions should take precedence over interacting with my kids. Whether in games, hobbies, online media, social interactions. My kids are my priority (after my wife of course ;)
 
 #### Definition of Anger
 	Incorrectly applied anger is an off itself self-gratification. It is selfish as it seeks to create an outlet for one's on emotional injustice. This form of anger is misapplied to someone or something else.
@@ -223,7 +227,6 @@ References:
 1. [Simple overview](https://docs.microsoft.com/en-us/archive/blogs/charlie/expression-tree-basics)
 
 
-
 # E. Being A Manager
 
 1. Rules of managing
@@ -238,6 +241,7 @@ References:
 	* Changes to processes need solid agreement.
 	* Collaborate instead of dictate, but dictate when collaboration can't reach resolution.
 	* Conflict is a natural part of business and it's healthy. Particularly where the individuals come from different backgrounds. This allows the shaping of problems and solutions in different ways. It's important to recognize that and to share your views (that are different) in a cordial manner. Contention is usually a sign of your ego kicking in.
+	* In setting a new course or direction, it is often times not enough to just point and say go. It requires education, inspiration and motivation of those who are being asked to follow.
 
 ## 2. Manager's User Manual
 
@@ -259,13 +263,14 @@ This is not a list of rules of how I operate, but the under-current of values an
 * Be Consistent - Habits done consistently produce effectivity (actions)
 
 
-### Three core values
+### Four core values
 
 1. Radical Candour - caring for others requires candid communication.
 
 2. Mutual Purpose - manage the stories we tell ourselves about others. In conflict seek to understand your purpose and that of the other person.
 
-4. Psychological Safety - the effectiveness of our thinking relates to how we treat one another
+3. Psychological Safety - the effectiveness of our thinking relates to how we treat one another
+4. Extreme Ownership - if the team fails it's my fault. I own the communication both up and down the chains.
 
 ### How I manage
 
@@ -293,6 +298,8 @@ I am work in progress.
 
 Switching too quickly from problem definition to problem resolution.
 Effecting change at a less rapid rate (at times).
+Understand that some people struggle with candour in both accepting and giving it.
+When criticism to me is given to apply silence to the process so the person being courageous can have confidence to do it again.
 
 # F. Just Being
 
@@ -312,5 +319,6 @@ Effecting change at a less rapid rate (at times).
 
 ### Coffee
 1. Maximum of 2 double espressos a day.
+
 
 	
