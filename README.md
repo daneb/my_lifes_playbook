@@ -70,6 +70,10 @@ Don't live out the models of others, take the model of who you are, recognize it
 *Second rule*
 	Little to no interactions should take precedence over interacting with my kids. Whether in games, hobbies, online media, social interactions. My kids are my priority (after my wife of course ;)
 
+*Third rule*
+	Kids are not computers. Praise the Lord. They are humans, of different thoughts and acts. Instructions while are there to aid them and steer them, these may take a while to adopt. 
+	Instead of expecting them to just execute, coach and mentor. A loud voice, frustration or anger does not enable the lessons to be absorbed. Instead they break down and force compulsion.
+
 #### Definition of Anger
 	Incorrectly applied anger is an off itself self-gratification. It is selfish as it seeks to create an outlet for one's on emotional injustice. This form of anger is misapplied to someone or something else.
 
@@ -299,6 +303,7 @@ Understand that some people struggle with candour in both accepting and giving i
 When criticism to me is given to apply silence to the process so the person being courageous can have confidence to do it again.
 People take time to think and to make a point / question / statement. Don't just dismiss what their saying. Carefully and succinctly deal with it despite how insignificant it may appear to me.
 Don't just talk, do. And when others beat you to it, praise and rejoice with them.
+Not all ideas worth pursuing, are worth pursuing well.
 
 ### Ideas
 Ideas sometimes need education to live and thrive.
